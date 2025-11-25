@@ -1,0 +1,7 @@
+Purchase Date: 26-12-2022 12:49:57
+1. The Philosopher's Stone: 550.0
+2. The Chamber of Secrets: 450.0
+3. The Prisoner of Azkaban: 330.0
+4. The Lighting Thief: 450.0
+Price: 1780.0
+Price after Discount: 1181.5
